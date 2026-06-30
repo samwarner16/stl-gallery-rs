@@ -1,7 +1,8 @@
 .DS_Store
-/target
+/target/
 /gallery*
 *.png
 Cargo.lock
 .idea/
 .vscode/
+*.log
